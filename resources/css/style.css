@@ -1,6 +1,6 @@
-head {
+html {
     font-family: Helvetica;
     font-size: 22px;
     color: seashell;
-    background-color: rgba(red, green, blue, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
 }
