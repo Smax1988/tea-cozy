@@ -46,7 +46,7 @@ a {
     color: seashell;
 }
 
-/*intro section*/
+/*main section*/
 
 .intro {
     height: 700px;
@@ -58,11 +58,10 @@ a {
 }
 
 .headlines {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     width: 100%;
     height: auto;
 }
-
 
 h2 {
     margin: 0;
@@ -73,14 +72,5 @@ h4 {
     margin: 0;
     padding: 10px;
 }
-
-
-/*Tea of the Month section*/
-
-
-
-/*Locations section*/
-
-
 
 /*footer*/
