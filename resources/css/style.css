@@ -73,4 +73,27 @@ h4 {
     padding: 10px;
 }
 
+.tea-of-the-month{
+    width: 1000px;
+    height: auto;
+    display: inline-block;
+    justify-content: center;
+}
+
+.tea-of-the-month img {
+    height: 200px;
+    width: 300px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.image-container div {
+    margin: 10px;
+}
+
 /*footer*/
